@@ -9,4 +9,4 @@ Un repositiorio local nos permite tener una carpeta o directorio dinámico, el c
 
 
 
-![Image](funpro-2510-git-github-s4ntiag0p4l4aci0/images/img4.png)
+![Image](./images/img4.png)
