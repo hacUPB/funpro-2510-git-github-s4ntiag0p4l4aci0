@@ -9,4 +9,4 @@ Un repositiorio local nos permite tener una carpeta o directorio dinámico, el c
 
 
 
-![Image](./images/img4.png)
+![Image](../images/img4.png)
