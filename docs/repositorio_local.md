@@ -67,3 +67,6 @@ Para editar un archivo
 nombre editor ^nombre archivo /carpeta / .--> para la carpeta actual^
 ```
 ![Image](../images/imgd2.png)
+
+    .gitignore
+.gitignore, es un nombre que se le puede dar tanto a un archivo como a una carpeta, este sirve para poner archivos que no se quiere o necesita tener en cuenta para el proyecto en el repositorio. Sin embargo están ahí por si son requerimiento de otro archivo o directorio en el proyecto.

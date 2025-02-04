@@ -3,8 +3,12 @@
 Nombre del estudiante:  Santiago Palacio Vargas
 Id.: 000575805
 ----
-.gitignore, es un nombre que se le puede dar tanto a un archivo como a una carpeta, este sirve para poner archivos que no se quiere o necesita tener en cuenta para el proyecto en el repositorio. Sin embargo están ahí por si son requerimiento de otro archivo o directorio en el proyecto.
 
+    Descripción del proyecto
+
+Este es un proyecto que busca la exploración de repositorios de git, tanto en forma local como remota. El objetivo de este proyecto era clonar un repositorio remoto, para localmente editarlo e ir sincronizando los cambios.Hay imágenes, archivos markdown y un archivo c.
+
+    ¿Que hay adentro?
 
 [funpro-2510-git-github-s4ntiag0p4l4aci0
 ](.)
@@ -32,6 +36,9 @@ Id.: 000575805
     - [imgd2](./images/imgd2.png)
     - [imge](./images/imge.png)
     - [imgf](./images/IMGF.png)
+    - [imgf1](./images/imgf1.png)
+    - [imgf2](./images/imgf2.png)
+    - [imgf3](./images/imgf3.png)
     - [imgg](./images/imgg.png)
     - [imgh](./images/imgh.png)
     - [imgi](./images/imgi.png)
@@ -41,3 +48,29 @@ Id.: 000575805
     - [script.c](./src/script.c)
 
 - [.gitignore](.gitignore)
+
+
+---
+    ¿Cómo se clonó? / ¿Cómo clonar?
+
+se copió el link generado en la evaluación de acuerdo al id
+![imgf1](./images/imgf1.png)
+
+con 
+
+``` 
+git clone https://github.com/hacUPB/funpro-2510-git-github-s4ntiag0p4l4aci0
+
+```
+se clona el repositorio remoto de forma local en el computador
+
+![imgf2](./images/imgf2.png)
+
+
+Se ejecuta el repositorio con
+
+```
+git init
+```
+![imgf3](./images/imgf3.png)
+
