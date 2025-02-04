@@ -45,7 +45,7 @@ git init --> vuelve la carpeta un repositorio
 Cambiamos la rama a main
 
 ```
-git branch -m master main -- nos permite cambiar el nombre de la rama
+git branch -m master main --> nos permite cambiar el nombre de la rama
 ```
 ![Image](../images/imgd.png)
 
