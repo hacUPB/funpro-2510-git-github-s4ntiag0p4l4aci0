@@ -38,7 +38,7 @@ Primero creamos el repositorio remoto en GitHub (después de acceder)
 
 ![Image](../images/imge.png)
 
-![Image](../images/imgf.png)
+![Image](../images/IMGF.png)
 
 
 Copiamos el link del repositorio remoto
