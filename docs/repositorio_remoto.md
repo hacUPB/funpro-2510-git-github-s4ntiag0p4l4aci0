@@ -28,3 +28,55 @@ Anteriormente, habíamos comparado la idea de un repositorio con la copia de seg
 
 -  A mi en un repositorio remoto me gusta ir añadiendo a medida que cada cambio se hace, porque el respaldo online me parece esencial. Es por eso que explicaré el metodo de creión de un repositorio remoto más directo, para que desde el inicio todo el repositorio se esté sincronizando. Es decir primero generar el repositorio remoto y luego clonarlo, así la información desde un principio tendrá respaldo.
 
+
+
+
+
+    El paso a paso
+
+Primero creamos el repositorio remoto en GitHub (después de acceder)
+
+![Image](../images/imge.png)
+---
+![Image](../images/imgf.png)
+
+
+Copiamos el link del repositorio remoto
+
+![Image](../images/imgg.png)
+
+
+Clonamos el repositorio con git bash (localmente)
+
+```
+git clone ^link^ --> clona el repositorio
+```
+![Image](../images/imgh.png)
+
+Se crea un archivo y se sigue ésta ruta para mantener el repositorio sincronizado
+
+```
+git touch ârchivo+ext^ --> crea el archivo
+
+
+git add . --> para añadir todo lo del directorio
+
+git commit -m --> para pasar al repositorio
+
+git push origin main --> para pasar al repositorio remoto
+
+```
+![Image](../images/imgi.png)
+
+para sincronizar los cambios online a la versión local se utiliza 
+
+```
+git pull
+
+```
+Para editar un archivo 
+
+```
+nombre editor ^nombre archivo /carpeta / .--> para la carpeta actual^
+```
+![Image](../images/imgd2.png)

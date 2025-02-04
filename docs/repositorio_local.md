@@ -16,9 +16,6 @@ Un repositiorio local nos permite tener una carpeta o directorio dinámico, el c
 
 
 
-![Image](../images/img4.png)
-
-
     El paso a paso
 
 Primero se creamos un nuevo directorio y nos ubicamos en el 
@@ -51,3 +48,23 @@ Cambiamos la rama a main
 git branch -m master main -- nos permite cambiar el nombre de la rama
 ```
 ![Image](../images/imgd.png)
+
+Para la edición o ceación de archivos 
+
+```
+git touch ârchivo+ext^ --> crea el archivo
+
+
+git add . --> para añadir todo lo del directorio
+
+git commit -m --> para pasar al repositorio
+
+```
+![Image](../images/imgd1.png)
+
+Para editar un archivo 
+
+```
+nombre editor ^nombre archivo /carpeta / .--> para la carpeta actual^
+```
+![Image](../images/imgd2.png)
