@@ -54,7 +54,6 @@ Para la edición o ceación de archivos
 ```
 git touch ârchivo+ext^ --> crea el archivo
 
-
 git add . --> para añadir todo lo del directorio
 
 git commit -m --> para pasar al repositorio
