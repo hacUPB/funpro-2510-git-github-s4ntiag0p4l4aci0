@@ -58,7 +58,6 @@ Se crea un archivo y se sigue ésta ruta para mantener el repositorio sincroniza
 ```
 git touch ârchivo+ext^ --> crea el archivo
 
-
 git add . --> para añadir todo lo del directorio
 
 git commit -m --> para pasar al repositorio
