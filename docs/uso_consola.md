@@ -14,9 +14,9 @@ Es muy práctica para el control de versiones, ya que nos permite generar y guar
 Unas imágenes de diferentes usos de la consola
 
 ![Image](../images/img1.png)
----
+
 ![Image](../images/img2.png)
----
+
 ![Image](../images/img3.png)
----
+
 ![Image](../images/img4.png)

@@ -37,7 +37,7 @@ Anteriormente, habíamos comparado la idea de un repositorio con la copia de seg
 Primero creamos el repositorio remoto en GitHub (después de acceder)
 
 ![Image](../images/imge.png)
----
+
 ![Image](../images/imgf.png)
 
 
